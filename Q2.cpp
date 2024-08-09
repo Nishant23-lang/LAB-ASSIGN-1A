@@ -16,7 +16,7 @@ int main()
         }
         printf("\n");
     }
-
+// Hello Its Nishant here.
     printf("Matrix Elements before Transpose are:\n");
     for(int i=0;i<n;i++)
     {
